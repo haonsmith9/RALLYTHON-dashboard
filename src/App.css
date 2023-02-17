@@ -18,7 +18,7 @@
 }
 
 .App-header {
-  background-image: url(../public/MountainDashboardBackground.png);
+  background-image: url(../public/BlackDashboardBackground.jpeg);
   background-size: cover;
   min-height: 100vh;
   display: flex;
@@ -26,7 +26,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: black;
+  color: white;
 }
 
 .App-link {
@@ -106,7 +106,7 @@ span {
   left: 50%;
   top: 50%;
   z-index: 2;
-  background-image: url(../public/MontyDashboardPopUp.jpg);
+  background-image: url(../public/MountainDashboardPopUp.png);
   background-size: cover;
   opacity: 1;
   transition: opacity 3s;
