@@ -106,7 +106,7 @@ span {
   left: 50%;
   top: 50%;
   z-index: 2;
-  background-image: url(../public/MountainDashboardPopUp.png);
+  background-image: url(../public/CMNFlame.jpg);
   background-size: cover;
   opacity: 1;
   transition: opacity 3s;
@@ -120,7 +120,7 @@ span {
   position: relative;
   left: 50%;
   top: 50%;
-  color:white;
+  color:black;
   font-size: 180%;
   text-align: center;
   width: 35%;
